@@ -1,2 +1,0 @@
-# iBudget
-An Expense Tracker
